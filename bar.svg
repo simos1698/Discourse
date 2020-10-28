@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="37" height="2301" viewBox="0 0 37 2301">
+  <g id="bar" transform="translate(-73 -1291)">
+    <path id="Path_121" data-name="Path 121" d="M2085.637,1462.065V3697.587" transform="translate(-1994 -137.065)" fill="none" stroke="#4e8489" stroke-width="3"/>
+    <g id="Ellipse_1" data-name="Ellipse 1" transform="translate(73 1291)" fill="none" stroke="#4e8389" stroke-width="3">
+      <ellipse cx="18.5" cy="17" rx="18.5" ry="17" stroke="none"/>
+      <ellipse cx="18.5" cy="17" rx="17" ry="15.5" fill="none"/>
+    </g>
+    <g id="Path_122" data-name="Path 122" transform="translate(73 3558)" fill="none">
+      <path d="M18.5,0C28.717,0,37,7.611,37,17S28.717,34,18.5,34,0,26.389,0,17,8.283,0,18.5,0Z" stroke="none"/>
+      <path d="M 18.5 3 C 9.953269958496094 3 3 9.280370712280273 3 17 C 3 24.71963119506836 9.953269958496094 31 18.5 31 C 27.04673004150391 31 34 24.71963119506836 34 17 C 34 9.280370712280273 27.04673004150391 3 18.5 3 M 18.5 0 C 28.71726989746094 0 37 7.611160278320313 37 17 C 37 26.38883972167969 28.71726989746094 34 18.5 34 C 8.282730102539063 34 0 26.38883972167969 0 17 C 0 7.611160278320313 8.282730102539063 0 18.5 0 Z" stroke="none" fill="#4e8389"/>
+    </g>
+  </g>
+</svg>

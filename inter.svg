@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="542.441" height="429.758" viewBox="0 0 542.441 429.758">
+  <defs>
+    <filter id="Path_116" x="0" y="0" width="542.441" height="429.758" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feFlood flood-opacity="0.588"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Icon_awesome-headset" x="166.023" y="96.88" width="170.955" height="175.259" filterUnits="userSpaceOnUse">
+      <feOffset dx="2" dy="-1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-2"/>
+      <feFlood flood-opacity="0.078"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="inter" transform="translate(-241.559 -1936.832)">
+    <g transform="matrix(1, 0, 0, 1, 241.56, 1936.83)" filter="url(#Path_116)">
+      <path id="Path_116-2" data-name="Path 116" d="M-18.441-.168,500,0l-.02,344H70.852l-89.293,61.589V-.168Z" transform="translate(30.44 9.17)" fill="#e3e3e3"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 241.56, 1936.83)" filter="url(#Icon_awesome-headset)">
+      <path id="Icon_awesome-headset-2" data-name="Icon awesome-headset" d="M70.682,79.739c0-6.774-6.081-12.268-13.58-12.268H45.015c-3.561.183-21.551,3.587-21.551,17.139l-.313,25.8c0,13.552,12.158,24.535,27.16,24.535H57.1c7.5,0,13.58-5.494,13.58-12.268Zm78.771,55.2c9.7-.515,22.1-10.2,23.054-23.465.008-.044.027-.555.027-1.07v-18.4c0-13.552-12.158-24.535-27.16-24.535h-6.79c-7.5,0-13.58,5.494-13.58,12.268v42.936c0,6.774,6.081,12.268,13.58,12.268ZM97.842,0c-60.61,0-84.084,20.138-85.9,76.772,0,0,2.1,28.068,11.207,29.251s.313-14.92.313-18.309l6.171-9.529C27.54,35.657,49.17,18.4,97.842,18.4s62.83,10.788,62.83,54.755h-.051c.034.932.051,59.4.051,59.4,0,8.951-3.474,18.228-11.219,23.789s-35.732,2.565-35.732,2.565c0-10.163-9.285-16.487-20.535-16.487H79.771c-11.25,0-17.567,6.324-17.567,16.487s6.317,15.148,17.567,15.148l72,.2c21.252-3.845,29.139-51.867,24.1-70.737l4.6-18.912C184.633,20.273,158.452,0,97.842,0Z" transform="translate(154.08 97.88)" fill="#2e8588" opacity="0.91"/>
+    </g>
+  </g>
+</svg>

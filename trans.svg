@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="542.441" height="429.758" viewBox="0 0 542.441 429.758">
+  <defs>
+    <filter id="Path_116" x="0" y="0" width="542.441" height="429.758" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feFlood flood-opacity="0.588"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="trans" transform="translate(-1213.559 -1431.832)">
+    <g transform="matrix(1, 0, 0, 1, 1213.56, 1431.83)" filter="url(#Path_116)">
+      <path id="Path_116-2" data-name="Path 116" d="M500-.168-18.441,0l.02,344H410.707L500,405.589V-.168Z" transform="translate(30.44 9.17)" fill="#e3e3e3"/>
+    </g>
+    <path id="Icon_material-translate" data-name="Icon material-translate" d="M92.209,83.282,74.561,69.538l.237-.19C88.554,57.09,98.357,43,104.128,28.087h23.163V15.45H71.952V4.244H56.141V15.45H3.748V28.024H89.107a97.5,97.5,0,0,1-25.06,33.868c-7.352-6.508-11.4-7.332-16.224-14.851H32.012c5.771,10.3,11.639,13.714,21.521,22.5L9.091,104.318l11.226,8.973,43.73-34.653L86.2,96.172Zm46.94-29.919H123.338L87.763,129.186h15.811l8.854-18.956h37.551l8.933,18.956h15.811Zm-21.928,46.18,14.023-29.309,14.582,29.309Z" transform="translate(1400.805 1545.696)" fill="#ae5977"/>
+  </g>
+</svg>

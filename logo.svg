@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="284.123" height="109" viewBox="0 0 284.123 109">
+  <defs>
+    <filter id="logo_vector" x="0" y="6.571" width="64.927" height="60.791" filterUnits="userSpaceOnUse">
+      <feOffset dx="2" dy="-1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur"/>
+      <feFlood flood-opacity="0.078"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="logo" transform="translate(-45.877 -18)">
+    <g id="logo_text" data-name="logo text" transform="translate(47 -971)">
+      <text id="Discourse" transform="translate(62 989)" fill="#484d50" font-size="35" font-family="Cutive-Regular, Cutive" letter-spacing="0.032em"><tspan x="0" y="40">Discourse</tspan></text>
+      <text id="translation_services" data-name="translation services" transform="translate(66 1038)" fill="#5e5e5e" font-size="15" font-family="Cutive-Regular, Cutive" letter-spacing="0.12em"><tspan x="0" y="17">translation services</tspan></text>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 45.88, 18)" filter="url(#logo_vector)">
+      <path id="logo_vector-2" data-name="logo vector" d="M-.011,67.176h-.03l.03-.018V7.387L18.858,35.839.007,67.148,31.062,49.03,62.885,67.176H-.01v0Z" transform="translate(0.04 0.18)" fill="#4e8489" opacity="0.89"/>
+    </g>
+  </g>
+</svg>

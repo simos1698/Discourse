@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="58.371" height="54.562" viewBox="0 0 58.371 54.562">
+  <defs>
+    <filter id="pink_logo" x="0" y="0" width="58.371" height="54.562" filterUnits="userSpaceOnUse">
+      <feOffset dx="2" dy="-1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur"/>
+      <feFlood flood-opacity="0.078"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#pink_logo)">
+    <path id="pink_logo-2" data-name="pink_logo" d="M-.014,60.948H-.041l.027-.016V7.387l16.9,25.488L0,60.923l27.82-16.231L56.33,60.948H-.014Z" transform="translate(0.04 -6.39)" fill="#d75e7f" opacity="0.92"/>
+  </g>
+</svg>

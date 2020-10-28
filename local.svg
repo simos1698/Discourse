@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="542.441" height="429.758" viewBox="0 0 542.441 429.758">
+  <defs>
+    <filter id="Path_116" x="0" y="0" width="542.441" height="429.758" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feFlood flood-opacity="0.588"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Icon_metro-location" x="212.533" y="100.33" width="119.13" height="188.407" filterUnits="userSpaceOnUse">
+      <feOffset dx="2" dy="-1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-2"/>
+      <feFlood flood-opacity="0.078"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="local" transform="translate(-241.559 -2974.832)">
+    <g transform="matrix(1, 0, 0, 1, 241.56, 2974.83)" filter="url(#Path_116)">
+      <path id="Path_116-2" data-name="Path 116" d="M-18.441-.168,500,0l-.02,344H70.852l-89.293,61.589V-.168Z" transform="translate(30.44 9.17)" fill="#e3e3e3"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 241.56, 2974.83)" filter="url(#Icon_metro-location)">
+      <path id="Icon_metro-location-2" data-name="Icon metro-location" d="M66.92,1.928A58.565,58.565,0,0,0,8.355,60.493c0,58.565,58.565,128.842,58.565,128.842s58.565-70.278,58.565-128.842A58.565,58.565,0,0,0,66.92,1.928Zm0,94.436a35.871,35.871,0,1,1,35.871-35.871A35.871,35.871,0,0,1,66.92,96.364Z" transform="translate(204.18 99.4)" fill="#d65377" opacity="0.92"/>
+    </g>
+  </g>
+</svg>
