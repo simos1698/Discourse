@@ -15,6 +15,23 @@ window.onload = function() {
         });
         window.alert('komple');
     }
+      
+    var sandwitchView = window.matchMedia("(max-width: 1300px)")
 
-    
+    sandwitchView.addEventListener("change", (e)=>{
+        if (e.matches) {  
+            var menu_icon = document.createElement("img");
+            menu_icon.src = "https://img.icons8.com/material-two-tone/48/000000/menu.png"
+            document.querySelector("header").append(menu_icon);
+            menu_icon.classList.add("menu_icon");
+            menu_icon.id = "sandwitch"
+            document.querySelector("nav").style.display = 'none';
+        }
+        else {
+            try {
+            document.querySelector("nav").style.display = 'flex';
+            document.getElementById('sandwitch').remove();
+            }catch {}    
+        }
+    });
 }
