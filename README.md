@@ -1,0 +1,1 @@
+This my first proffesional gig as a web developer. As requested by the client, it's a single page static website for the company. It's co-designed and built by me from scratch, with pure html, css and vanilla javasrcipt. 
